@@ -1,10 +1,10 @@
 [project]
 name = "is-burger"
-version = "0.1.0"
+version = "0.1.1"
 description = "Burger detection"
 readme = "README.md"
 authors = [
-    { name = "Jack Martin", email = "jrm9229@gmail.com" }
+    { name = "ShackledMars261" }
 ]
 requires-python = ">=3.13"
 dependencies = []
